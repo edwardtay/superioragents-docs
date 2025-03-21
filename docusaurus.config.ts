@@ -123,7 +123,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/KIP-Protocol-Contracts/superior-opensource',
+              href: 'https://github.com/SuperiorAgents/superior-agents',
             },
           ],
         },

@@ -40,7 +40,7 @@ type CommunityLink = {
 const developerLinks: DeveloperLink[] = [
   {
     title: 'superior-opensource',
-    href: 'https://github.com/KIP-Protocol-Contracts/superior-opensource',
+    href: 'https://github.com/SuperiorAgents/superior-agents',
     icon: <GitHub style={{ width: '24px', height: '24px' }} />,
   },
 ];
@@ -55,13 +55,13 @@ const communityLinks: CommunityLink[] = [
   {
     title: 'Forum',
     description: 'Discuss governance and more.',
-    href: 'https://github.com/KIP-Protocol-Contracts/superior-opensource/issues',
+    href: 'https://github.com/SuperiorAgents/superior-agents/issues',
     icon: <MessageCircle style={{ width: '48px', height: '48px' }} />,
   },
   {
     title: 'GitHub',
-    description: 'View all KIP Protocol repositories.',
-    href: 'https://github.com/KIP-Protocol-Contracts',
+    description: 'View all Superior Agents repositories.',
+    href: 'https://github.com/SuperiorAgents/superior-agents',
     icon: <GitHub style={{ width: '48px', height: '48px' }} />,
   },
 ];
