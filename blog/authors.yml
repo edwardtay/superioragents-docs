@@ -1,0 +1,15 @@
+jen:
+  name: Jen D.
+  title: Chief AI Engineer @ KIP
+  image_url: https://pbs.twimg.com/profile_images/1901655765217386496/zDy92W3H_400x400.jpg
+  page: true
+  socials:
+    x: HumanLevelJen
+emir:
+  name: Emir A.
+  title: DevRel Lead @ KIP
+  image_url: https://pbs.twimg.com/profile_images/1893224272166035458/P7_7kmgt_400x400.jpg
+  page: true
+  socials:
+    x: selcukemiravci
+    github: selcukemiravci

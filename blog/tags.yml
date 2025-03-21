@@ -1,0 +1,14 @@
+tutorial:
+  label: Facebook
+  permalink: /tutorial
+  description: Facebook tag description
+
+research:
+  label: Hello
+  permalink: /research
+  description: Hello tag description
+
+Superior Agents:
+  label: Superior Agents
+  permalink: /superioragents
+  description: Docusaurus tag description
