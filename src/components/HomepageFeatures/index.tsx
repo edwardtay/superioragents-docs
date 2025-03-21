@@ -76,19 +76,19 @@ function IntroBoxesSection(): JSX.Element {
       title: 'What is Superior Agents?',
       description: 'Learn about the core concepts of Superior Agents.',
       icon: <InfoIcon />,
-      href: '/docs/superior-agents-overview', // Example link
+      href: 'docs/intro', // Example link
     },
     {
       title: 'How can I build with Superior Agents?',
       description: 'Discover how to create your own AI with real-world evolution.',
       icon: <HelpIcon />,
-      href: '/docs/build-with-superior-agents', // Example link
+      href: 'docs/intro', // Example link
     },
     {
       title: 'Learn about the architecture',
       description: 'Explore the structure of Superior Agents in detail.',
       icon: <BookIcon />,
-      href: '/docs/superior-agents-architecture', // Example link
+      href: 'docs/intro', // Example link
     },
   ];
 
