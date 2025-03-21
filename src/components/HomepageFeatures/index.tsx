@@ -163,8 +163,7 @@ function IntroBoxesSection(): JSX.Element {
   
               <p>
                 This is the end of the symbol-loop era and the beginning of a new paradigm: one where
-                AI agents improve by adapting, not obeying. Welcome to the age of Superior Agents—
-                powered by KIP Protocol.
+                AI agents improve by adapting, not obeying. Welcome to the age of Superior Agents!
               </p>
             </div>
   
