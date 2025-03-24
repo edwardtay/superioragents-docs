@@ -1,27 +1,35 @@
 ---
 sidebar_position: 1
+title: "System Overview"
 ---
 
 # System Overview
 
-## Versioning Guide (Dummy Content)
+This document provides an overview of the system architecture, including a visual diagram and a detailed explanation of how components interact. Use this page to guide developers in understanding and extending the system.
 
-This is a dummy versioning guide. In a real guide you would explain how to manage and maintain different versions of your documentation using Docusaurus. For example, you might cover:
+## Visual Diagram and Component Interaction
 
-- How to create a new version of your docs.
-- Best practices for maintaining historical versions.
-- Tools and commands to switch between versions.
+Developers are encouraged to include a visual diagram that illustrates the system's architecture and the interactions between its components. To add your own diagram and explanation, follow these steps:
 
-*More detailed content will be added here...*
+1. **Create or Update the Diagram:**  
+   - Create a diagram using your preferred tool (e.g., draw.io, Lucidchart, or any other diagramming software).
+   - Export the diagram as an image file (PNG, JPG, or SVG).
+   - Save the image in the `/img` folder of your Docusaurus project (for example, as `/img/system-diagram.png`).
+
+2. **Embed the Diagram in this Page:**  
+   - Use Markdown image syntax to embed the diagram:
+     
+     ```md
+     ![System Diagram](/img/system-diagram.png)
+     ```
+     
+   - Place this image wherever it fits best within your explanation.
+
+3. **Add an Explanation:**  
+   - Provide a detailed explanation of the diagram. Describe how each component interacts, what their responsibilities are, and any key integration points.
+   - You can format your explanation using Markdown headers, lists, and code blocks if needed.
+
+4. **Keep It Updated:**  
+   - As the system evolves, ensure that the diagram and explanation remain current. Regularly update the content as new components are added or existing ones are modified.
 
 ---
-
-## Internationalization (i18n) Guide (Dummy Content)
-
-This is a dummy internationalization guide. In a full guide, you would explain how to configure Docusaurus to support multiple languages, including:
-
-- Setting up language options in your configuration.
-- Creating and organizing translated files.
-- Using Docusaurus’ built-in i18n features to improve accessibility.
-
-*More detailed content will be added here...*

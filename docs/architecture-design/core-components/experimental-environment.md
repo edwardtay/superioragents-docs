@@ -1,27 +1,29 @@
 ---
 sidebar_position: 4
+title: "Experimental Environment"
 ---
 
-# Experimental Environment
+In this experiment, the AI itself is only half of the solution. The environment in which it evolves is just as important, since it is this environment that will determine the direction of its evolution. In order to ensure continuous improvement in the skills and knowledge of the AI, it should be presented with finely graded challenges to overcome, allowing it to find easier problems to solve in its initial stages and move onto increasingly difficult ones as its skills expand.
 
-## Versioning Guide (Dummy Content)
+Eventually, it should also be possible to direct the AI’s evolution by presenting it with an environment that forces it to solve problems deliberately contrived to teach it particular skills. However, a system such as we describe, though it may be corralled into performing useful tasks, remains essentially predatory—a form of self-directed malware. Steps also had to be taken to:
+- **Prevent the agent from overwriting itself** as far as possible, and  
+- **Isolate the development environment from other networks.**
 
-This is a dummy versioning guide. In a real guide you would explain how to manage and maintain different versions of your documentation using Docusaurus. For example, you might cover:
+To allow the agent to experiment in a secure and sustainable way, we constructed the following experimental environment:
 
-- How to create a new version of your docs.
-- Best practices for maintaining historical versions.
-- Tools and commands to switch between versions.
+- **Dynamic Docker Containers:**  
+  The foundation of our testing framework consists of dynamically generated Docker containers, each representing a unique challenge environment for the agent. These containers are built from randomly selected base images, ensuring that the agent cannot develop dependencies on specific environmental configurations.
 
-*More detailed content will be added here...*
+- **Randomized File Systems:**  
+  Within each container, we implement a complex file system populated with randomly positioned files of varying sizes and permission structures. This randomization extends to both the spatial distribution of files and their access controls, creating a rich problem space for the agent to navigate.
 
----
+- **Objective: Optimize Container Space:**  
+  The primary objective assigned to the agent is the optimization of available space within these containers. Each experimental run begins with the instantiation of a fresh container, generated according to our randomization protocols.
 
-## Internationalization (i18n) Guide (Dummy Content)
+- **Quantitative Performance Measurement:**  
+  The agent's performance is quantified through precise measurements of container space utilization both before and after its intervention. This creates a clear metric for evaluation: the differential between initial and final space consumption.
 
-This is a dummy internationalization guide. In a full guide, you would explain how to configure Docusaurus to support multiple languages, including:
+- **Reward-Driven Learning:**  
+  The learning mechanism is implemented through a reward system that directly correlates with the agent's effectiveness in space reduction. By tying the reward function to the quantity of space freed, we create a direct incentive for the agent to develop increasingly sophisticated strategies for identifying and removing unnecessary files while respecting system constraints and permission structures.
 
-- Setting up language options in your configuration.
-- Creating and organizing translated files.
-- Using Docusaurus’ built-in i18n features to improve accessibility.
-
-*More detailed content will be added here...*
+This approach ensures that the agent's evolution is guided by practical utility rather than predetermined heuristics.

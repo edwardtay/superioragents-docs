@@ -1,25 +1,15 @@
 ---
 sidebar_position: 1
+title: "Web Based Agent Setup"
 ---
 
-## Versioning Guide (Dummy Content)
 
-This is a dummy versioning guide. In a real guide you would explain how to manage and maintain different versions of your documentation using Docusaurus. For example, you might cover:
+# Creating Your Agent via the GUI
 
-- How to create a new version of your docs.
-- Best practices for maintaining historical versions.
-- Tools and commands to switch between versions.
+Currently, a limited number of agents are available for test use. To get an access code, you will need to join our Discord and make a request.
+![Marketing Agent Flow](./img/image.png)
 
-*More detailed content will be added here...*
+The first choice you will need to make is whether you want to create a trading account or a social media marketing app.
+![Marketing Agent Flow](./img/image2.png)
 
----
-
-## Internationalization (i18n) Guide (Dummy Content)
-
-This is a dummy internationalization guide. In a full guide, you would explain how to configure Docusaurus to support multiple languages, including:
-
-- Setting up language options in your configuration.
-- Creating and organizing translated files.
-- Using Docusaurus’ built-in i18n features to improve accessibility.
-
-*More detailed content will be added here...*
+Once that is done, you will be asked to set the core parameters of your app.
