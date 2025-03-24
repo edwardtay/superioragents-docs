@@ -75,20 +75,16 @@ const config: Config = {
         src: 'img/superior_agents_logo.jpg',
       },
       items: [
+        { to: 'docs/category/getting-started', label: 'Documentation', position: 'left' },
+        { to: '/blog', label: 'Blogs', position: 'left' },    
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/SuperiorAgents/superioragents-docs',
           label: 'GitHub',
           position: 'right',
         },
       ],
     },
+    
     footer: {
       //style: 'dark',
       links: [
@@ -96,8 +92,8 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Documentation',
+              to: '/docs/category/getting-started',
             },
           ],
         },

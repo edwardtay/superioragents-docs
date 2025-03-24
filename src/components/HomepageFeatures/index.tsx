@@ -50,7 +50,7 @@ const communityLinks: CommunityLink[] = [
     title: 'Discord',
     description: 'Join our Developer Community.',
     href: 'https://discord.gg/865JrDPU2J',
-    icon: <Discord style={{ width: '48px', height: '48px' }} />,
+    icon: <Discord className={styles.discordIcon} style={{ width: '48px', height: '48px' }} />,
   },
   {
     title: 'Forum',
@@ -73,22 +73,22 @@ function IntroBoxesSection(): JSX.Element {
   // Example data for the three boxes
   const introBoxes = [
     {
-      title: 'What is Superior Agents?',
+      title: 'What are Superior Agents?',
       description: 'Learn about the core concepts of Superior Agents.',
       icon: <InfoIcon />,
-      href: 'docs/intro', // Example link
+      href: 'docs/getting-started/intro-superioragents', // Example link
     },
     {
       title: 'How can I build with Superior Agents?',
       description: 'Discover how to create your own AI with real-world evolution.',
       icon: <HelpIcon />,
-      href: 'docs/intro', // Example link
+      href: 'docs/category/installation', // Example link
     },
     {
       title: 'Learn about the architecture',
       description: 'Explore the structure of Superior Agents in detail.',
       icon: <BookIcon />,
-      href: 'docs/intro', // Example link
+      href: 'docs/category/architecture--design', // Example link
     },
   ];
 
