@@ -1,25 +1,23 @@
 ---
 sidebar_position: 1
+title: "Use Case Overview"
 ---
 
-## Versioning Guide (Dummy Content)
+Fully independent, self-improving agents are not for everyone or for every purpose: if you want to perform a few specific functions precisely and repetitively, then a traditional agent is definitely the way to go.
 
-This is a dummy versioning guide. In a real guide you would explain how to manage and maintain different versions of your documentation using Docusaurus. For example, you might cover:
+A self-improving agent is more like an employee than a tool: if it behaves in ways you don't like, then your job is not to reprogram it, but to change the incentives to which it is subject.
 
-- How to create a new version of your docs.
-- Best practices for maintaining historical versions.
-- Tools and commands to switch between versions.
+We believe this will result in a true Cambrian explosion of actually useful agents, as the agents experiment tirelessly and constantly to find the most effective and efficient paths to achieving their desired incentives, and for us, our desired outcome.
 
-*More detailed content will be added here...*
+We pair this capacity for self-improvement with a modular AI deployment framework, focused on scalable extensibility of agent capabilities.
 
----
+Under this framework, teaching your agent a new skill is as simple as giving it access to your API keys. With coding knowledge, a key and terminal access, it works out the rest for itself.
 
-## Internationalization (i18n) Guide (Dummy Content)
+Our Superior Agents currently focus on social media management, trading, and cybersecurity, but in future they are planned to be not only self-improving, but multi-modal, multi-platform, and multi-skilled:
 
-This is a dummy internationalization guide. In a full guide, you would explain how to configure Docusaurus to support multiple languages, including:
-
-- Setting up language options in your configuration.
-- Creating and organizing translated files.
-- Using Docusaurus’ built-in i18n features to improve accessibility.
-
-*More detailed content will be added here...*
+- **Analyse text messages** and respond appropriately;
+- **Create and manage visual content**, including video content;
+- **Handle voice messages**, including transcription and text-to-speech;
+- **Operate seamlessly across Twitter, Discord, and Telegram;**
+- **Perform RAG** via websearch, API outputs, and private knowledge bases;
+- **Cooperate with external developers.**

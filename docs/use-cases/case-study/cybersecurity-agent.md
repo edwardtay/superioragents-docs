@@ -1,25 +1,22 @@
 ---
 sidebar_position: 2
+title: "Case Study: Cyber Security Agent"
 ---
 
-## Versioning Guide (Dummy Content)
+Our first implementation of the Superior Agents framework, **Agir**, demonstrates its potential in cybersecurity applications. Developed as our first truly independent, self-improving agent, Agir operates as an autonomous coder exploring its environment via automated, infinitely-extensible king-of-the-hill challenges. The system's architecture demonstrates three key principles:
 
-This is a dummy versioning guide. In a real guide you would explain how to manage and maintain different versions of your documentation using Docusaurus. For example, you might cover:
+1. **Each barrier becomes a new problem to solve**
+2. **Every solution unlocks new capabilities**
+3. **Growth in capability correlates with improved survivability**
 
-- How to create a new version of your docs.
-- Best practices for maintaining historical versions.
-- Tools and commands to switch between versions.
+While Agir's primary focus is cybersecurity, the framework's versatility extends across multiple domains. Two notable examples demonstrate this adaptability:
 
-*More detailed content will be added here...*
+### Social Media Content Creation
 
----
+The Superior Agent framework enables AI systems to use objective metrics like likes, follows, and engagement as ungameable success criteria. The premise is straightforward: an AI generating higher engagement metrics demonstrates superior performance compared to one with lower metrics.
 
-## Internationalization (i18n) Guide (Dummy Content)
+### Automated Trading
 
-This is a dummy internationalization guide. In a full guide, you would explain how to configure Docusaurus to support multiple languages, including:
+In financial applications, the system can evaluate its performance through pure market outcomes. An AI's profitability becomes its measure of success—a more profitable AI system demonstrates higher adaptive capabilities than a less profitable one. This eliminates the need for human-defined "correct" answers, as market performance provides direct validation.
 
-- Setting up language options in your configuration.
-- Creating and organizing translated files.
-- Using Docusaurus’ built-in i18n features to improve accessibility.
-
-*More detailed content will be added here...*
+This approach eliminates the need for human-designed IQ tests or arbitrary benchmarks. Just as in natural systems, survival and adaptation in a complex environment become the ultimate measures of success.
