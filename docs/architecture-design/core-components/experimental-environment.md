@@ -4,20 +4,24 @@ sidebar_position: 4
 
 # Experimental Environment
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+## Versioning Guide (Dummy Content)
 
-Docusaurus has **much more to offer**!
+This is a dummy versioning guide. In a real guide you would explain how to manage and maintain different versions of your documentation using Docusaurus. For example, you might cover:
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+- How to create a new version of your docs.
+- Best practices for maintaining historical versions.
+- Tools and commands to switch between versions.
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+*More detailed content will be added here...*
 
-## What's next?
+---
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+## Internationalization (i18n) Guide (Dummy Content)
+
+This is a dummy internationalization guide. In a full guide, you would explain how to configure Docusaurus to support multiple languages, including:
+
+- Setting up language options in your configuration.
+- Creating and organizing translated files.
+- Using Docusaurus’ built-in i18n features to improve accessibility.
+
+*More detailed content will be added here...*
