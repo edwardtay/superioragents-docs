@@ -38,7 +38,7 @@ Join the conversation, share your insights, and collaborate with other developer
 
 - **GitHub Repository:** [SuperiorAgents/superioragents-docs](https://github.com/SuperiorAgents/superioragents-docs)
 
-- **Placeholder:** *(Link to API docs when available)*
+- **Demo Walkthrough:** [Walkthrough of Superior Agents - Trading Agent ](https://www.youtube.com/watch?v=q6kTvTWc4p4s)
 
 ## Articles
 
