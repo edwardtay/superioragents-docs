@@ -1,25 +1,45 @@
 ---
 sidebar_position: 1
+title: "Superior Agents 101"
 ---
 
-## Versioning Guide (Dummy Content)
+# Superior Agents 101
 
-This is a dummy versioning guide. In a real guide you would explain how to manage and maintain different versions of your documentation using Docusaurus. For example, you might cover:
+Welcome to Superior Agents 101! This page is your introduction to our framework that lets AI systems to continuously improve through evolution and real-world feedback. Unlike traditional agents that operate on fixed instructions, Superior Agents are designed to adapt, learn, and evolve—becoming increasingly capable over time.
 
-- How to create a new version of your docs.
-- Best practices for maintaining historical versions.
-- Tools and commands to switch between versions.
+## 1. Understanding Superior Agents
 
-*More detailed content will be added here...*
+Superior Agents are a new paradigm in AI. They combine self-improving code generation, robust testing modules, and continuous retraining loops to create systems that evolve autonomously. This approach enables the agent to:
+
+- Learn from past experiences to tackle new problems.
+- Adjust strategies based on real-world performance.
+- Continuously refine its capabilities for a future of truly intelligent, adaptive systems.
+
+## 2. Get Started with Installation & Setup
+
+Begin by checking out our [Installation & Setup section](/docs/category/installation) where you'll find all the necessary steps to set up and configure agent:
+
+- Learn how to install dependencies and configure your environment.
+- Follow detailed guides to get your system up and running.
+- Find troubleshooting tips and best practices for a smooth setup.
+
+## 3. Engage with the Superior Agents Community
+
+Stay in the loop with the latest news, updates, and discussions by joining our community. Follow us on:
+
+- **[X](https://x.com/Superior_Agents)**
+- **[Discord](https://discord.gg/865JrDPU2J)**
+
+Join the conversation, share your insights, and collaborate with other developers who are as passionate about autonomous AI as you are.
 
 ---
 
-## Internationalization (i18n) Guide (Dummy Content)
+## Useful Resources
 
-This is a dummy internationalization guide. In a full guide, you would explain how to configure Docusaurus to support multiple languages, including:
+- **GitHub Repository:** [SuperiorAgents/superioragents-docs](https://github.com/SuperiorAgents/superioragents-docs)
 
-- Setting up language options in your configuration.
-- Creating and organizing translated files.
-- Using Docusaurus’ built-in i18n features to improve accessibility.
+- **Placeholder:** *(Link to API docs when available)*
 
-*More detailed content will be added here...*
+## Articles
+
+*(Our articles will be linked here)*
